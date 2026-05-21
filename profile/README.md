@@ -2,9 +2,10 @@
 
 # 🩸 Don't Let Your Blood Spark!
 
-<table>
+<table width="100%">
 <tr>
-<td align="left" width="55%">
+
+<td align="right" width="55%">
 
 ### “나의 건강 시그널을 확인하고 싶다면?”
 ### 지금, Sparring과 함께 건강을 관리해보세요.
@@ -12,8 +13,8 @@
 <br/>
 
 🏥 AI Healthcare Platform  
-👥 Team Kangaroo (4 Members)  
-📆 Development Period : 9 Months
+👥 Team Kangaroo  
+📆 Development Period : 9 Months  
 
 <br/>
 
@@ -28,6 +29,7 @@
 <img src="../assets/iPhone.png" width="260"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -97,6 +99,30 @@ AI 기반 헬스케어 플랫폼입니다.
 
 ---
 
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Frontend
+![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br/>
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
 # 🔗 Repositories
 
 | Repository | Description |
@@ -112,6 +138,11 @@ AI 기반 헬스케어 플랫폼입니다.
 
 ## 🩸 Don't Let Your Blood Spark
 
-AI와 함께하는 스마트 헬스케어 플랫폼, Sparring
+AI와 함께하는 스마트 헬스케어 플랫폼,  
+<b>Sparring</b>
+
+<br/>
+
+INU-Kangaroo 🦘
 
 </div>
