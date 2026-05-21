@@ -1,4 +1,6 @@
+<div align="center">
 # Don't Let Your Blood Spark! 🩸
+</div>
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -29,13 +31,14 @@
 ---
 
 # 👩🏻‍💻 Team Kangaroo
-
+<div align="center">
 | Name | Role |
 |---|---|
 | 김도은 | AI Developer |
 | 김예은 | Frontend Developer |
 | 박은산 | Frontend Developer |
 | 최정현 | Backend Developer |
+</div>
 
 <br/>
 
