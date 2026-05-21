@@ -2,7 +2,9 @@
 
 # 🩸 Don't Let Your Blood Spark!
 
-<img src="../assets/iPhone.png" width="260"/>
+<table>
+<tr>
+<td align="left" width="55%">
 
 ### “나의 건강 시그널을 확인하고 싶다면?”
 ### 지금, Sparring과 함께 건강을 관리해보세요.
@@ -18,6 +20,16 @@
 <a href="https://www.youtube.com/watch?v=XU9N04qXjIs">
   🖥️ <b>Watch Sparring Demo</b>
 </a>
+
+</td>
+
+<td align="center" width="45%">
+
+<img src="../assets/iPhone.png" width="260"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
