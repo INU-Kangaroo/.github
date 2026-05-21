@@ -8,12 +8,14 @@
 
 <br/>
 
-<table width="100%">
+<div align="center">
+
+<table width="90%">
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="48%">
 
-<img src="../assets/iPhone.png" width="320"/>
+<img src="../assets/iPhone.png" width="360"/>
 
 <br/><br/>
 
@@ -21,22 +23,25 @@
 > 맞춤형 건강 피드백까지  
 > 나만의 건강 루틴을 관리해보세요.
 
+<br/><br/>
 </td>
 
-<td valign="middle" width="50%">
+<td valign="middle" align="left" width="52%">
 
 ## ✨ Healthy Life with Sparring
 
 ### 나의 건강 시그널을 확인하고 싶다면?  
 ### 지금, Sparring과 함께 시작해요.
 
-<br/>
+<br/><br/>
 
 🏥 **AI Healthcare Platform**  
+<br/><br/>
 👥 **Team Kangaroo**  
+<br/><br/>
 📆 **Development Period · 9 Months**
 
-<br/>
+<br/><br/>
 
 <a href="https://www.youtube.com/watch?v=XU9N04qXjIs">
   🖥️ <b>Watch Sparring Demo</b>
@@ -47,6 +52,8 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
 # 👩🏻‍💻 Team Kangaroo
@@ -56,12 +63,16 @@
 
 <br/>
 
+<div align="center">
+
 | Name | Role |
 | --- | --- |
 | 👩🏻‍🦱 김도은 | AI Developer |
 | 👱🏻‍♀️ 김예은 | Frontend Developer |
 | 👩🏻 박은산 | Frontend Developer |
 | 👩🏻‍🦳 최정현 | Backend Developer |
+
+</div>
 
 ---
 
@@ -87,7 +98,7 @@ AI 기반 헬스케어 플랫폼입니다.
 
 <div align="center">
 
-<img src="../assets/banner.png" width="850"/>
+<img src="../assets/banner.png" width="900"/>
 
 </div>
 
@@ -97,7 +108,7 @@ AI 기반 헬스케어 플랫폼입니다.
 
 <div align="center">
 
-<img src="../assets/architecture.png" width="850"/>
+<img src="../assets/architecture.png" width="900"/>
 
 </div>
 
@@ -108,6 +119,6 @@ AI 기반 헬스케어 플랫폼입니다.
 ## 🩸 Don't Let Your Blood Spark
 
 ### AI와 함께하는 스마트 헬스케어 플랫폼  
-## <b>Sparring</b>
+# <b>Sparring</b>
 
 </div>
