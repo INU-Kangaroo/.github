@@ -13,15 +13,12 @@
 
 <td align="center" width="48%">
 
+<br/><br/>
+
 <img src="../assets/iPhone.png" width="360"/>
 
 <br/><br/>
 
-> 식후 혈당 변화 예측부터  
-> 맞춤형 건강 피드백까지  
-> 나만의 건강 루틴을 관리해보세요.
-
-<br/><br/>
 </td>
 
 <td valign="middle" align="left" width="52%">
