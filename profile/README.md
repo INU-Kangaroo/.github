@@ -26,8 +26,6 @@
 
 <td valign="middle" align="left" width="52%">
 
-### ✨ AI 기반 맞춤형 헬스케어 플랫폼, **Sparring**
-
 ### 나의 건강 시그널을 확인하고 싶다면?  
 ### 지금, Sparring과 함께 시작해요.
 
