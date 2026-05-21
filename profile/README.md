@@ -1,4 +1,4 @@
-<div align="center">
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/29620926-f42a-489e-bf7f-05f2bc916d8e" /><div align="center">
 
 # 🩸 Don't Let Your Blood Spark!
 
@@ -17,8 +17,8 @@
 
 <td align="left" width="55%">
 
-### “나의 건강 시그널을 확인하고 싶다면?”
-# 지금, Sparring과 함께 건강을 관리해보세요.
+###  나의 건강 시그널을 확인하고 싶다면?
+###  Sparring과 함께 건강을 관리 시작해요.
 
 <br/>
 
@@ -46,12 +46,11 @@
 
 <br/>
 
-| Name | Role |
-|---|---|
-| 김도은 | AI Developer |
-| 김예은 | Frontend Developer |
-| 박은산 | Frontend Developer |
-| 최정현 | Backend Developer |
+
+👩🏻‍🦱 김도은 | AI Developer 
+👱🏻‍♀️ 김예은 | Frontend Developer 
+👩🏻 박은산 | Frontend Developer 
+👩🏻‍🦳 최정현 | Backend Developer 
 
 ---
 
@@ -90,38 +89,6 @@ AI 기반 헬스케어 플랫폼입니다.
 <img src="../assets/architecture.png" width="850"/>
 
 </div>
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-<br/>
-
-### Backend
- <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<br/>
-
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-# 🔗 Repositories
-
-| Repository | Description |
-|---|---|
-| [Sparring](https://github.com/INU-Kangaroo/Sparring) | Main Project Repository |
-| [Sparring-Frontend](https://github.com/INU-Kangaroo/Sparring-Frontend) | React Native Mobile Application |
-| [Sparring-Backend](https://github.com/INU-Kangaroo/Sparring-Backend) | Spring Boot Backend Server |
-| [Sparring-AI](https://github.com/INU-Kangaroo/Sparring-AI) | AI Modeling & Prediction |
 
 ---
 
