@@ -2,6 +2,8 @@
 
 # 🩸 Don't Let Your Blood Spark!
 
+### AI 기반 맞춤형 헬스케어 플랫폼, **Sparring**
+
 </div>
 
 <br/>
@@ -9,22 +11,30 @@
 <table width="100%">
 <tr>
 
-<td align="center" width="45%">
+<td align="center" width="50%">
 
-<img src="../assets/iPhone.png" width="300"/>
+<img src="../assets/iPhone.png" width="320"/>
+
+<br/><br/>
+
+> 식후 혈당 변화 예측부터  
+> 맞춤형 건강 피드백까지  
+> 나만의 건강 루틴을 관리해보세요.
 
 </td>
 
-<td align="left" width="75%">
+<td valign="middle" width="50%">
 
-###  나의 건강 시그널을 확인하고 싶다면?
-###  Sparring과 함께 건강을 관리 시작해요.
+## ✨ Healthy Life with Sparring
+
+### 나의 건강 시그널을 확인하고 싶다면?  
+### 지금, Sparring과 함께 시작해요.
 
 <br/>
 
-🏥 AI Healthcare Platform  
-👥 Team Kangaroo  
-📆 Development Period : 9 Months  
+🏥 **AI Healthcare Platform**  
+👥 **Team Kangaroo**  
+📆 **Development Period · 9 Months**
 
 <br/>
 
@@ -46,11 +56,12 @@
 
 <br/>
 
-
-👩🏻‍🦱 김도은 | AI Developer 
-👱🏻‍♀️ 김예은 | Frontend Developer 
-👩🏻 박은산 | Frontend Developer 
-👩🏻‍🦳 최정현 | Backend Developer 
+| Name | Role |
+| --- | --- |
+| 👩🏻‍🦱 김도은 | AI Developer |
+| 👱🏻‍♀️ 김예은 | Frontend Developer |
+| 👩🏻 박은산 | Frontend Developer |
+| 👩🏻‍🦳 최정현 | Backend Developer |
 
 ---
 
@@ -96,8 +107,7 @@ AI 기반 헬스케어 플랫폼입니다.
 
 ## 🩸 Don't Let Your Blood Spark
 
-AI와 함께하는 스마트 헬스케어 플랫폼,  
-<b>Sparring</b>
+### AI와 함께하는 스마트 헬스케어 플랫폼  
+## <b>Sparring</b>
 
 </div>
-
