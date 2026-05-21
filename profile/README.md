@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/29620926-f42a-489e-bf7f-05f2bc916d8e" /><div align="center">
+<div align="center">
 
 # 🩸 Don't Let Your Blood Spark!
 
@@ -15,7 +15,7 @@
 
 </td>
 
-<td align="left" width="55%">
+<td align="left" width="75%">
 
 ###  나의 건강 시그널을 확인하고 싶다면?
 ###  Sparring과 함께 건강을 관리 시작해요.
