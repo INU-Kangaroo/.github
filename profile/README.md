@@ -2,8 +2,6 @@
 
 # 🩸 Don't Let Your Blood Spark!
 
-### AI 기반 맞춤형 헬스케어 플랫폼, **Sparring**
-
 </div>
 
 <br/>
@@ -28,7 +26,7 @@
 
 <td valign="middle" align="left" width="52%">
 
-## ✨ Healthy Life with Sparring
+### ✨ AI 기반 맞춤형 헬스케어 플랫폼, **Sparring**
 
 ### 나의 건강 시그널을 확인하고 싶다면?  
 ### 지금, Sparring과 함께 시작해요.
@@ -118,7 +116,7 @@ AI 기반 헬스케어 플랫폼입니다.
 
 ## 🩸 Don't Let Your Blood Spark
 
-### AI와 함께하는 스마트 헬스케어 플랫폼  
-# <b>Sparring</b>
+#### AI와 함께하는 스마트 헬스케어 플랫폼  
+### <b>Sparring</b>
 
 </div>
