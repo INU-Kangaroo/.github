@@ -2,13 +2,23 @@
 
 # 🩸 Don't Let Your Blood Spark!
 
+</div>
+
+<br/>
+
 <table width="100%">
 <tr>
 
-<td align="right" width="55%">
+<td align="center" width="45%">
+
+<img src="../assets/iPhone.png" width="300"/>
+
+</td>
+
+<td align="left" width="55%">
 
 ### “나의 건강 시그널을 확인하고 싶다면?”
-### 지금, Sparring과 함께 건강을 관리해보세요.
+# 지금, Sparring과 함께 건강을 관리해보세요.
 
 <br/>
 
@@ -24,22 +34,17 @@
 
 </td>
 
-<td align="center" width="45%">
-
-<img src="../assets/iPhone.png" width="260"/>
-
-</td>
-
 </tr>
 </table>
-
-</div>
 
 ---
 
 # 👩🏻‍💻 Team Kangaroo
 
-<div align="center">
+> **INU-Kangaroo**는 AI와 헬스케어 기술을 기반으로  
+> 사용자 맞춤형 건강 관리 서비스를 개발하는 팀입니다.
+
+<br/>
 
 | Name | Role |
 |---|---|
@@ -47,17 +52,6 @@
 | 김예은 | Frontend Developer |
 | 박은산 | Frontend Developer |
 | 최정현 | Backend Developer |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-INU-Kangaroo는 AI와 헬스케어 기술을 기반으로  
-사용자 맞춤형 건강 관리 서비스를 개발하는 팀입니다.
-
-</div>
 
 ---
 
@@ -101,8 +95,6 @@ AI 기반 헬스케어 플랫폼입니다.
 
 # 🛠 Tech Stack
 
-<div align="center">
-
 ### Frontend
 ![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -111,15 +103,14 @@ AI 기반 헬스케어 플랫폼입니다.
 <br/>
 
 ### Backend
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <br/>
 
 ### AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
 
 ---
 
@@ -141,8 +132,5 @@ AI 기반 헬스케어 플랫폼입니다.
 AI와 함께하는 스마트 헬스케어 플랫폼,  
 <b>Sparring</b>
 
-<br/>
-
-INU-Kangaroo 🦘
-
 </div>
+
